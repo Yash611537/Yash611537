@@ -23,5 +23,5 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Yash611537&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Yash611537&theme=radical&hide_border=false&include_all_commits=true&count_private=true) <br/>
 ![](https://github-profile-trophy.vercel.app/?username=Yash611537&theme=radical&no-frame=false&no-bg=true&margin-w=4)
