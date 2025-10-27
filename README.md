@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Shah!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of Mumbai, India<br/>
+👩🏻‍🎓 Studied [Computer Science](https://mu.ac.in/) at the University of Mumbai, India<br/>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
